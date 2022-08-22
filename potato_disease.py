@@ -139,7 +139,7 @@ for images_batch, labels_batch in test_ds.take(1):
     batch_predict = model.predict(images_batch)
     print("predicted label:",cn[np.argmax(batch_predict[0])])
 
-def predict(model, img):
+def predict(img):
     img_array = tf.keras.preprocessing.image.img_to_array(images[i].numpy())
     img_array = tf.expand_dims(img_array, 0)
 
