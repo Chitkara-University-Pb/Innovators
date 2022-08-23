@@ -9,7 +9,7 @@ async function loadModel(){
     model = await tf.loadLayersModel('https://raw.githubusercontent.com/Chitkara-University-Pb/Innovators/main/model%20(1).json');
     console.log("model loaded")
 }
-loadModel();
+loadModel();  
 
 inputFile.addEventListener('change', function () {
 	const image = this.files[0]
