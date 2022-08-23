@@ -7,7 +7,7 @@ customer purchase request
 farmer approval for request   
 customer payment notification    
 
-worker hire
+worker hire   
 worker job
 */
 ?>
