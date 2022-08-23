@@ -173,7 +173,7 @@ echo mysqli_num_rows($qsql);
                   </div>  
                 </div>
               </div>
-            </div><!-- End .content-->
+            </div><!-- End .content-->  
           </div>
         </div>
 
