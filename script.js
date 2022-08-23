@@ -30,6 +30,6 @@ inputFile.addEventListener('change', function () {
 		}
 		reader.readAsDataURL(image);
 	} else {
-		alert("Image size more than 2MB");
+		alert("Image size more than 2MB");    
 	}
 })
