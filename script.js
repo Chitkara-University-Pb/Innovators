@@ -23,7 +23,7 @@ inputFile.addEventListener('change', function () {
 			img.src = imgUrl;
 			imgArea.appendChild(img);
 			imgArea.classList.add('active');
-			imgArea.dataset.img = image.name;
+			imgArea.dataset.img = image.name;   
 
             var predictedClass= model.predict(img);
             console.log(predictedClass);
