@@ -16,7 +16,7 @@ inputFile.addEventListener('change', function () {
 	if(image.size < 2000000) {
 		const reader = new FileReader();
 		reader.onload = ()=> {
-			const allImg = imgArea.querySelectorAll('img');
+			const allImg = imgArea.querySelectorAll('img');  
 			allImg.forEach(item=> item.remove());
 			const imgUrl = reader.result;
 			const img = document.createElement('img');
