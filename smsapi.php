@@ -5,7 +5,7 @@ $senderid = "AGRIBUZ";
 /*   
 customer purchase request   
 farmer approval for request   
-customer payment notification
+customer payment notification    
 
 worker hire
 worker job
