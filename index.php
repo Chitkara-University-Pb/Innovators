@@ -2,7 +2,7 @@
 include("header.php"); 
 ?> 
 
-  <!-- ======= Hero Section ======= -->
+  <!-- ======= Hero Section ======= --> 
   <section id="hero" class="d-flex align-items-center">
     <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
       <h1>OTIPY -Delivering farm fresh produce at low costs.</h1>
