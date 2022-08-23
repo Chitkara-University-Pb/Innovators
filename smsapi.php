@@ -3,7 +3,7 @@ $smsstatus="Disabled";
 $smsapi = "sdfjakjfjsldfhsdkfhgi";  
 $senderid = "AGRIBUZ";
 /*   
-customer purchase request
+customer purchase request   
 farmer approval for request
 customer payment notification
 
