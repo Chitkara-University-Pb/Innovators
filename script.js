@@ -19,7 +19,7 @@ inputFile.addEventListener('change', function () {
 			const allImg = imgArea.querySelectorAll('img');  
 			allImg.forEach(item=> item.remove());
 			const imgUrl = reader.result;
-			const img = document.createElement('img');
+			const img = document.createElement('img');     
 			img.src = imgUrl;
 			imgArea.appendChild(img);
 			imgArea.classList.add('active');
