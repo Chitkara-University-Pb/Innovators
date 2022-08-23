@@ -170,7 +170,7 @@ echo mysqli_num_rows($qsql);
                     <i class="bx bx-walk"></i>
                     <p>Find Agriculture Jobs and opportunities.. Farm Worker jobs available here...<br> <b>Login / Register as Worker</b></p>
 					<div class="text-center"><button type="button" class="btn btn-info" onclick="window.location='workerreglogin.php'">Click Here</button></div>
-                  </div>
+                  </div>  
                 </div>
               </div>
             </div><!-- End .content-->
