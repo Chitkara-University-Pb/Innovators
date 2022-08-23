@@ -1,4 +1,4 @@
-<?php
+<?php   
 $smsstatus="Disabled";
 $smsapi = "sdfjakjfjsldfhsdkfhgi";
 $senderid = "AGRIBUZ";
