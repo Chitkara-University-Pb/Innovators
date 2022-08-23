@@ -8,6 +8,6 @@ farmer approval for request
 customer payment notification    
 
 worker hire   
-worker job
+worker job   
 */
 ?>
